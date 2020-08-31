@@ -1,0 +1,13 @@
+C:\Users\Dornamichell.dadela\Documents\Skolan\Programmering\Programmering2\Programmering-2\HELLOWORLD\HELLOWORLD\bin\Debug\netcoreapp3.1\HELLOWORLD.exe
+C:\Users\Dornamichell.dadela\Documents\Skolan\Programmering\Programmering2\Programmering-2\HELLOWORLD\HELLOWORLD\bin\Debug\netcoreapp3.1\HELLOWORLD.deps.json
+C:\Users\Dornamichell.dadela\Documents\Skolan\Programmering\Programmering2\Programmering-2\HELLOWORLD\HELLOWORLD\bin\Debug\netcoreapp3.1\HELLOWORLD.runtimeconfig.json
+C:\Users\Dornamichell.dadela\Documents\Skolan\Programmering\Programmering2\Programmering-2\HELLOWORLD\HELLOWORLD\bin\Debug\netcoreapp3.1\HELLOWORLD.runtimeconfig.dev.json
+C:\Users\Dornamichell.dadela\Documents\Skolan\Programmering\Programmering2\Programmering-2\HELLOWORLD\HELLOWORLD\bin\Debug\netcoreapp3.1\HELLOWORLD.dll
+C:\Users\Dornamichell.dadela\Documents\Skolan\Programmering\Programmering2\Programmering-2\HELLOWORLD\HELLOWORLD\bin\Debug\netcoreapp3.1\HELLOWORLD.pdb
+C:\Users\Dornamichell.dadela\Documents\Skolan\Programmering\Programmering2\Programmering-2\HELLOWORLD\HELLOWORLD\obj\Debug\netcoreapp3.1\HELLOWORLD.csprojAssemblyReference.cache
+C:\Users\Dornamichell.dadela\Documents\Skolan\Programmering\Programmering2\Programmering-2\HELLOWORLD\HELLOWORLD\obj\Debug\netcoreapp3.1\HELLOWORLD.AssemblyInfoInputs.cache
+C:\Users\Dornamichell.dadela\Documents\Skolan\Programmering\Programmering2\Programmering-2\HELLOWORLD\HELLOWORLD\obj\Debug\netcoreapp3.1\HELLOWORLD.AssemblyInfo.cs
+C:\Users\Dornamichell.dadela\Documents\Skolan\Programmering\Programmering2\Programmering-2\HELLOWORLD\HELLOWORLD\obj\Debug\netcoreapp3.1\HELLOWORLD.csproj.CoreCompileInputs.cache
+C:\Users\Dornamichell.dadela\Documents\Skolan\Programmering\Programmering2\Programmering-2\HELLOWORLD\HELLOWORLD\obj\Debug\netcoreapp3.1\HELLOWORLD.dll
+C:\Users\Dornamichell.dadela\Documents\Skolan\Programmering\Programmering2\Programmering-2\HELLOWORLD\HELLOWORLD\obj\Debug\netcoreapp3.1\HELLOWORLD.pdb
+C:\Users\Dornamichell.dadela\Documents\Skolan\Programmering\Programmering2\Programmering-2\HELLOWORLD\HELLOWORLD\obj\Debug\netcoreapp3.1\HELLOWORLD.genruntimeconfig.cache
