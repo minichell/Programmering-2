@@ -6,17 +6,17 @@ namespace HELLOWORLD
     {
             static void Main(string[] args)
             {
-                var words = new string[7];
+                var names = new string[7];
 
-                for (int i = words.Length - 1; i > 1; i--)
+                for (int i = names.Length - 1; i > 1; i--)
                 {
-                    words[i] = Console.ReadLine();
+                    names[i] = Console.ReadLine();
 
                 }
 
-                foreach (var word in words)
+                foreach (var name in names)
                 {
-                    Console.WriteLine(word);
+                    Console.WriteLine(name);
                 }
             }
         }
