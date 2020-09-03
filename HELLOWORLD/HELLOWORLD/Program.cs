@@ -6,7 +6,7 @@ namespace HELLOWORLD
     {
             static void Main(string[] args)
             {
-                var words = new string[5];
+                var words = new string[7];
 
                 for (int i = words.Length - 1; i > 1; i--)
                 {
