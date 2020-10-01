@@ -1,0 +1,13 @@
+C:\Users\Dornamichell.dadela\source\repos\OOP - Lab\OOP - Lab\bin\Debug\netcoreapp3.1\OOP - Lab.exe
+C:\Users\Dornamichell.dadela\source\repos\OOP - Lab\OOP - Lab\bin\Debug\netcoreapp3.1\OOP - Lab.deps.json
+C:\Users\Dornamichell.dadela\source\repos\OOP - Lab\OOP - Lab\bin\Debug\netcoreapp3.1\OOP - Lab.runtimeconfig.json
+C:\Users\Dornamichell.dadela\source\repos\OOP - Lab\OOP - Lab\bin\Debug\netcoreapp3.1\OOP - Lab.runtimeconfig.dev.json
+C:\Users\Dornamichell.dadela\source\repos\OOP - Lab\OOP - Lab\bin\Debug\netcoreapp3.1\OOP - Lab.dll
+C:\Users\Dornamichell.dadela\source\repos\OOP - Lab\OOP - Lab\bin\Debug\netcoreapp3.1\OOP - Lab.pdb
+C:\Users\Dornamichell.dadela\source\repos\OOP - Lab\OOP - Lab\obj\Debug\netcoreapp3.1\OOP - Lab.csprojAssemblyReference.cache
+C:\Users\Dornamichell.dadela\source\repos\OOP - Lab\OOP - Lab\obj\Debug\netcoreapp3.1\OOP - Lab.AssemblyInfoInputs.cache
+C:\Users\Dornamichell.dadela\source\repos\OOP - Lab\OOP - Lab\obj\Debug\netcoreapp3.1\OOP - Lab.AssemblyInfo.cs
+C:\Users\Dornamichell.dadela\source\repos\OOP - Lab\OOP - Lab\obj\Debug\netcoreapp3.1\OOP - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Dornamichell.dadela\source\repos\OOP - Lab\OOP - Lab\obj\Debug\netcoreapp3.1\OOP - Lab.dll
+C:\Users\Dornamichell.dadela\source\repos\OOP - Lab\OOP - Lab\obj\Debug\netcoreapp3.1\OOP - Lab.pdb
+C:\Users\Dornamichell.dadela\source\repos\OOP - Lab\OOP - Lab\obj\Debug\netcoreapp3.1\OOP - Lab.genruntimeconfig.cache
