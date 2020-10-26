@@ -23,22 +23,26 @@ namespace OOP___Lab
             while (true)
             {
                 Console.WriteLine("Choose your products pls:");
-                Console.WriteLine("1. Chicken" + "\n" +
-                                  "2. Meat   " + "\n" +
-                                  "3. Rise " + "\n" +
+                Console.WriteLine("1. apple" + "\n" +
+                                  "2. orange   " + "\n" +
+                                  "3. lemon " + "\n" +
                                   "4. Done!");
-                int custom = Convert.ToInt32(Console.ReadLine());
+                int custom = Console.ReadLine();
 
                 switch (custom)
                 {
                     case 1:
-                        orderList.Add("Chicken");
+                       
+                        var apple = new apple();
+                        orderList.Add("apple");
                         continue;
                     case 2:
-                        orderList.Add("Meat");
+                        var orange = new orange();
+                        orderList.Add("orange");
                         continue;
                     case 3:
-                        orderList.Add("Rise");
+                        var lemon = new lemon();
+                        orderList.Add("lemon");
                         continue;
                     case 4:
 
