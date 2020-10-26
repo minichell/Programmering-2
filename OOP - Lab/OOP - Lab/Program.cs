@@ -27,21 +27,21 @@ namespace OOP___Lab
                                   "2. orange   " + "\n" +
                                   "3. lemon " + "\n" +
                                   "4. Done!");
-                int custom = Console.ReadLine();
+                int custom = Convert.ToInt32(Console.ReadLine());
 
                 switch (custom)
                 {
                     case 1:
                        
-                        var apple = new apple();
+         
                         orderList.Add("apple");
                         continue;
                     case 2:
-                        var orange = new orange();
+                   
                         orderList.Add("orange");
                         continue;
                     case 3:
-                        var lemon = new lemon();
+
                         orderList.Add("lemon");
                         continue;
                     case 4:

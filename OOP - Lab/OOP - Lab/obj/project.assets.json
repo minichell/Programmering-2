@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dornamichell.dadela\\source\\repos\\OOP - Lab\\OOP - Lab\\OOP - Lab.csproj",
+      "projectUniqueName": "C:\\Users\\Dornamichell.dadela\\Documents\\Skolan\\Programmering\\Programmering2\\Programmering-2\\OOP - Lab\\OOP - Lab\\OOP - Lab.csproj",
       "projectName": "OOP - Lab",
-      "projectPath": "C:\\Users\\Dornamichell.dadela\\source\\repos\\OOP - Lab\\OOP - Lab\\OOP - Lab.csproj",
+      "projectPath": "C:\\Users\\Dornamichell.dadela\\Documents\\Skolan\\Programmering\\Programmering2\\Programmering-2\\OOP - Lab\\OOP - Lab\\OOP - Lab.csproj",
       "packagesPath": "C:\\Users\\Dornamichell.dadela\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dornamichell.dadela\\source\\repos\\OOP - Lab\\OOP - Lab\\obj\\",
+      "outputPath": "C:\\Users\\Dornamichell.dadela\\Documents\\Skolan\\Programmering\\Programmering2\\Programmering-2\\OOP - Lab\\OOP - Lab\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dornamichell.dadela\\AppData\\Roaming\\NuGet\\NuGet.Config",
