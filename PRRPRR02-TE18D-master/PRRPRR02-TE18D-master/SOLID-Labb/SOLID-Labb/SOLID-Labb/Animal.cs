@@ -19,5 +19,10 @@ namespace SOLID_Labb
         public abstract void Sleep();
 
         public abstract void Eat();
+
+           public void TransferOwnership(string owner)
+        {
+            _owner = owner;
+        }
     }
 }
